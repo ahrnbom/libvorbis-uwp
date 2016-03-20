@@ -70,9 +70,6 @@
     <ClCompile Include="..\..\lib\psy.c">
       <Filter>lib</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\lib\psytune.c">
-      <Filter>lib</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\lib\registry.c">
       <Filter>lib</Filter>
     </ClCompile>
@@ -86,9 +83,6 @@
       <Filter>lib</Filter>
     </ClCompile>
     <ClCompile Include="..\..\lib\synthesis.c">
-      <Filter>lib</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\lib\tone.c">
       <Filter>lib</Filter>
     </ClCompile>
     <ClCompile Include="..\..\lib\window.c">
@@ -231,12 +225,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\lib\lookups.pl">
-      <Filter>lib</Filter>
-    </None>
-    <None Include="..\..\lib\Makefile.am">
-      <Filter>lib</Filter>
-    </None>
-    <None Include="..\..\lib\Makefile.in">
       <Filter>lib</Filter>
     </None>
   </ItemGroup>

@@ -42,13 +42,11 @@
     <ClCompile Include="..\..\lib\mapping0.c" />
     <ClCompile Include="..\..\lib\mdct.c" />
     <ClCompile Include="..\..\lib\psy.c" />
-    <ClCompile Include="..\..\lib\psytune.c" />
     <ClCompile Include="..\..\lib\registry.c" />
     <ClCompile Include="..\..\lib\res0.c" />
     <ClCompile Include="..\..\lib\sharedbook.c" />
     <ClCompile Include="..\..\lib\smallft.c" />
     <ClCompile Include="..\..\lib\synthesis.c" />
-    <ClCompile Include="..\..\lib\tone.c" />
     <ClCompile Include="..\..\lib\vorbisenc.c" />
     <ClCompile Include="..\..\lib\vorbisfile.c" />
     <ClCompile Include="..\..\lib\window.c" />
@@ -99,8 +97,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\lib\lookups.pl" />
-    <None Include="..\..\lib\Makefile.am" />
-    <None Include="..\..\lib\Makefile.in" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\libogg-uwp\winrt\libogg-uwp\libogg-uwp.vcxproj">
